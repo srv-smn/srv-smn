@@ -1,4 +1,7 @@
-<h3 align="center">Hey 👋, I'm Sourav Suman</h3><h3 align="left">A passionate and motivated blockchain developer based in Bangalore, India. <br>With a passion for continuous learning, I thrive on exploring new technologies and emerging trends in the blockchain space. <br><br>With more than 3.5 years of experience in creating and implementing smart contracts, I have become skilled in working with various EVM compatible chains. I am proficient in Node.js, Nest.js, and Subgraph, allowing me to tackle complex challenges and develop innovative solutions. <br><br>Outside of my work, I actively participate in hackathons.</h3>
+<h3 align="center">Hey 👋, I'm Sourav Suman</h3><p align="left">A passionate and motivated blockchain developer based in Bangalore, India. <br>With a passion for continuous learning, I thrive on exploring new technologies and emerging trends in the blockchain space. <br><br>With more than 3.5 years of experience in creating and implementing smart contracts, I have become skilled in working with various EVM compatible chains. I am proficient in Node.js, Nest.js, and Subgraph, allowing me to tackle complex challenges and develop innovative solutions. <br><br>Outside of my work, I actively participate in hackathons.</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srv-smn&label=Profile%20views&color=0e75b6&style=flat" alt="srv-smn" /> </p>
+
 
 ###
 
